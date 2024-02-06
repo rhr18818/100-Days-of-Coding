@@ -3,8 +3,6 @@ Join me on a 100-day coding quest! From mastering recursion to conquering pointe
 
 ---
 
-# 100 Days of Coding
-
 ## Description
 Welcome to my "100 Days of Coding" journey! In this repository, I'll be documenting my daily coding progress as I embark on a 100-day challenge to enhance my programming skills. Throughout this journey, I'll be focusing on learning and mastering various concepts in Data Structures and Algorithms (DSA) using C++. Topics I'll cover include recursion, pointers, and everything from basic to advanced C++ programming.
 
