@@ -31,7 +31,7 @@ int main(){
     int n= sizeof(arr)/sizeof(arr[0]);
     vector<int> ds;
     int tsum =2;
-    onesubsequence(0,n,0,tsum,arr,ds);
+    cout<<onesubsequence(0,n,0,tsum,arr,ds);
     
     return 0;
 }
