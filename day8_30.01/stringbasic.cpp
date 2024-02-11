@@ -10,7 +10,7 @@ char toLowercase(char ch){
 }
 void reverse(char name[],int len){
     int s=0, e=len-1;
-    while (s!=e)
+    while (s<=e)
     {
         swap(name[s],name[e]);
         s++,e--;
